@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <div>I'm the home dsdcomponent</div>
-      <button onClick={() => console.log('Hi there!')}>Press me!</button>
+      <button onClick={() => console.log('Hi there!!!')}>Press me!</button>
     </div>
   );
 };

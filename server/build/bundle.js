@@ -22457,7 +22457,7 @@ var Home = function Home() {
     _react2.default.createElement(
       'button',
       { onClick: function onClick() {
-          return console.log('Hi there!');
+          return console.log('Hi there!!!');
         } },
       'Press me!'
     )
